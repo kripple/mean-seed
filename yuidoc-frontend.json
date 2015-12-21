@@ -1,0 +1,11 @@
+{
+	"name": "mean-playlist-app",
+    "description": "Playlist app built in the MEAN stack",
+    "version": "0.0.0",
+    "url": "https://github.com/kripple/mean-playlist-app",
+    "options": {
+        "paths": "./app/src/",
+        "outdir": "yuidocs/frontend",
+        "exclude": "bower_components,build,deploys,test"
+    }
+}

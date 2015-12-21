@@ -1,0 +1,42 @@
+{
+  "name": "mean-playlist-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kripple/mean-playlist-app",
+  "authors": [
+    "Kelly Ripple <kelly.m.ripple@gmail.com>"
+  ],
+  "description": "Playlist app built in the MEAN stack",
+  "keywords": [
+    "mean-seed",
+    "javascript",
+    "angular",
+    "express",
+    "node",
+    "karma",
+    "bootstrap"
+  ],
+  "dependencies": {
+    "angular": "1.4.8",
+    "angular-animate": "1.4.8",
+    "angular-sanitize": "1.4.8",
+    "angular-touch": "1.4.8",
+    "angular-route": "1.4.8",
+    "angular-cookies": "1.4.8",
+	"angular-mocks": "1.4.8",
+    "lesshat": "latest",
+    "font-awesome": "latest",
+    "less-flexbox": "latest",
+    "momentjs": "latest",
+    "angular-string": "latest",
+    "angular-array": "latest",
+    "angular-forminput": "latest",
+    "angular-socket-io": "latest"
+  },
+  "license": "MIT",
+  "resolutions": {
+    "angular": "1.4.8",
+    "angular-animate": "1.4.8",
+    "angular-sanitize": "1.4.8",
+    "angular-touch": "1.4.8"
+  }
+}
